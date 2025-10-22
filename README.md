@@ -1,8 +1,6 @@
 # DeteccaoPhishing
 # 🔒 Detecção de URLs de Phishing com Machine Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/Deteccao_Phishing_ML.ipynb)
-
 > Projeto de Machine Learning para classificação automática de URLs maliciosas vs. legítimas
 
 ## 📋 Sobre o Projeto
